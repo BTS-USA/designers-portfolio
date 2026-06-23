@@ -65,7 +65,7 @@ export function Hero() {
 
             <div className="col-span-12 flex flex-wrap items-center gap-3 md:col-span-5 md:justify-end">
               <Magnetic>
-                <Button asChild size="lg" variant="default">
+                <Button asChild size="lg" variant="brand">
                   <a href="#work">
                     See our work <ArrowDown className="!size-4" />
                   </a>
